@@ -213,8 +213,8 @@ ul#nav li.current a { color: #F06000; }
 
 	-webkit-transform: scale(1);
 	transform: scale(1);
-	-webkit-filter: sepia(100%) blur(1px);
-	filter: sepia(100%) blur(1px);
+	-webkit-filter: sepia(100%) blur(0.5px);
+	filter: sepia(100%) blur(0.5px);
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
 }
